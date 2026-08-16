@@ -1,3 +1,20 @@
+#There are following reasons to decline sales in several regions:#
+1.Product Quality
+2.Discounts
+3.Promotion\Advertising
+4.Product Attraction or Packaging
+5.identify the areas in which sales are low check there all above points and connect with the team
+
+
+#Dashboard#
+Total Revenue
+Total Sales Quantity
+Top 5 Products
+Top 5 Customers
+Revenue By Markets
+Sales Quantity by Markets
+
+
 Data Analysis Using SQL
 Show all customer records
 
